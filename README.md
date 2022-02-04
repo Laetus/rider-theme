@@ -32,6 +32,7 @@ $ omf install rider
 <img src="https://raw.githubusercontent.com/rideron89/rider-theme/master/screenshot.png">
 </p>
 
+Bla bla bla
 
 # License
 
